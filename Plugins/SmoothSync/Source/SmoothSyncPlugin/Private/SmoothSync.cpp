@@ -3,6 +3,7 @@
 #include "SmoothSync.h"
 #include "State.h"
 #include "Engine/World.h"
+#include "Runtime/Engine/Classes/Engine/WorldComposition.h"
 #include "Components/PrimitiveComponent.h"
 
 
@@ -357,11 +358,33 @@ void USmoothSync::ServerSendsTransformToEveryone_Implementation(const TArray<uin
 	stateToAdd->atPositionalRest = deserializePositionalRestFlag(syncInfoByte);
 	stateToAdd->atRotationalRest = deserializeRotationalRestFlag(syncInfoByte);
 
+	bool syncNewOrigin = false;
+	if (isUsingOriginRebasing)
+	{
+		char extraSyncInfoByte;
+		// Read second encoded byte 
+		readFromBuffer(&extraSyncInfoByte);
+		syncNewOrigin = (extraSyncInfoByte & originRebaseMask) == originRebaseMask;
+	}
+
 	readFromBuffer(&(stateToAdd->ownerTimestamp));
+
+	if (isUsingOriginRebasing)
+	{
+		if (syncNewOrigin)
+		{
+			readFromBuffer(&stateToAdd->origin);
+			lastOriginWhenStateWasReceived = stateToAdd->origin;
+			stateToAdd->teleport = true;
+		}
+		else
+		{
+			stateToAdd->origin = lastOriginWhenStateWasReceived;
+		}
+	}
 
 	if (characterMovementComponent != nullptr)
 	{
-		readFromBuffer(&deserializeMovementMode);
 		if (deserializeMovementMode)
 		{
 			uint8 tempMovementMode;
@@ -641,6 +664,29 @@ void USmoothSync::TickComponent(float DeltaTime, ELevelTick TickType, FActorComp
 
 	bool sendTransform = shouldSendTransform();
 
+	// Code to test origin rebasing
+	/*if (sendTransform)
+	{
+		FIntVector newOrigin;
+		newOrigin.X = (int)(GetWorld()->OriginLocation.X + this->getPosition().X);
+		newOrigin.Y = (int)(GetWorld()->OriginLocation.Y + this->getPosition().Y);
+		newOrigin.Z = (int)(GetWorld()->OriginLocation.Z + this->getPosition().Z);
+		if ((GetWorld()->OriginLocation - newOrigin).Size() > 2000)
+		{
+			UE_LOG(LogTemp, Warning, TEXT("Changing Origin: %s"), *(newOrigin.ToString()));
+			GetWorld()->RequestNewWorldOrigin(newOrigin);
+		}
+	}*/
+
+	// Resend the latest state, making sure to include the owner's origin.
+	if (resendLatestStateFromServer)
+	{
+		// Unsetting lastOriginWhenStateWasSent forces the origin to be included in the state that is sent
+		lastOriginWhenStateWasSent = FIntVector::NoneValue;
+		SerializeState(stateBuffer[0]);
+		resendLatestStateFromServer = false;
+	}
+
 	// Set the interpolated / extrapolated Transforms and Rigidbodies if we shouldn't send Transform.
 	if (!sendTransform)
 	{
@@ -656,6 +702,7 @@ void USmoothSync::TickComponent(float DeltaTime, ELevelTick TickType, FActorComp
 	if (samePositionCount == 0 && restStatePosition != RestState::AT_REST)
 	{
 		positionLastFrame = getPosition();
+		originLastFrame = GetWorld()->OriginLocation;
 	}
 	if (sameRotationCount == 0 && restStateRotation != RestState::AT_REST)
 	{
@@ -664,6 +711,7 @@ void USmoothSync::TickComponent(float DeltaTime, ELevelTick TickType, FActorComp
 	// Reset back to default bools.
 	resetFlags();
 }
+
 /// <summary>Used to turn Smooth Sync on and off. True to enable Smooth Sync. False to disable Smooth Sync.</summary>
 ///	<remarks>Will automatically send RPCs across the network. Is meant to be called on the owned version of the Actor.</remarks>
 void USmoothSync::enableSmoothSync(bool enable)
@@ -768,7 +816,7 @@ void USmoothSync::sendState()
 		// Same position logic.
 		if (syncPosition != SyncMode::NONE)
 		{
-			if (sameVector(positionLastFrame, getPosition(), atRestPositionThreshold))
+			if (sameVector((FVector)originLastFrame + positionLastFrame, (FVector)GetWorld()->OriginLocation + getPosition(), atRestPositionThreshold))
 			{
 				if (restStatePosition != RestState::AT_REST)
 				{
@@ -877,6 +925,7 @@ void USmoothSync::sendState()
 		if (restStatePosition == RestState::JUST_STARTED_MOVING)
 		{
 			sendingTempState->position = lastPositionWhenStateWasSent;
+			sendingTempState->origin = lastOriginWhenStateWasSent;
 		}
 		if (restStateRotation == RestState::JUST_STARTED_MOVING)
 		{
@@ -890,6 +939,7 @@ void USmoothSync::sendState()
 			if (restStatePosition != RestState::JUST_STARTED_MOVING)
 			{
 				sendingTempState->position = positionLastFrame;
+				sendingTempState->origin = originLastFrame;
 			}
 			if (restStateRotation != RestState::JUST_STARTED_MOVING)
 			{
@@ -922,19 +972,34 @@ void USmoothSync::SerializeState(SmoothState *sendingState)
 
 	copyToBuffer(encodeSyncInformation(sendPosition, sendRotation, sendScale,
 		sendVelocity, sendAngularVelocity, sendAtPositionalRestMessage, sendAtRotationalRestMessage, sendMovementMode));
+
+	if (isUsingOriginRebasing)
+	{
+		char extraSyncInfo = 0;
+		if (sendingState->origin != lastOriginWhenStateWasSent)
+		{
+			extraSyncInfo |= originRebaseMask;
+		}
+		copyToBuffer(extraSyncInfo);
+	}
+
 	copyToBuffer(sendingState->ownerTimestamp);
+
+	if (isUsingOriginRebasing)
+	{
+		if (sendingState->origin != lastOriginWhenStateWasSent)
+		{
+			copyToBuffer(sendingState->origin);
+		}
+		lastOriginWhenStateWasSent = sendingState->origin;
+	}
 
 	if (characterMovementComponent != nullptr)
 	{
 		if (sendMovementMode)
 		{
-			copyToBuffer(true);
 			copyToBuffer(sendingState->movementMode);
 			latestSentMovementMode = sendingState->movementMode;
-		}
-		else
-		{
-			copyToBuffer(false);
 		}
 	}
 
@@ -1121,7 +1186,8 @@ void USmoothSync::SerializeState(SmoothState *sendingState)
 		ClientSendsTransformToServer(sendingCharArray);
 	}
 }
-///// <summary>Use the SmoothState buffer to set interpolated or extrapolated Transforms and Rigidbodies on non-owned objects.</summary>
+
+/// <summary>Use the SmoothState buffer to set interpolated or extrapolated Transforms and Rigidbodies on non-owned objects.</summary>
 void USmoothSync::applyInterpolationOrExtrapolation()
 {
 	if (stateCount == 0) return;
@@ -1178,6 +1244,7 @@ void USmoothSync::applyInterpolationOrExtrapolation()
 	// Set position, rotation, scale, velocity, and angular velocity (as long as we didn't try and extrapolate too far).
 	if (!triedToExtrapolateTooFar)// || (!isSimulatingPhysics))
 	{
+		FIntVector localOrigin = GetWorld()->OriginLocation;
 		bool changedPositionEnough = false;
 		float distance = 0;
 		// If the current position is different from target position
@@ -1186,7 +1253,7 @@ void USmoothSync::applyInterpolationOrExtrapolation()
 			// If we want to use either of these variables, we need to calculate the distance.
 			if (positionSnapThreshold != 0 || receivedPositionThreshold != 0)
 			{
-				distance = FVector::Distance(getPosition(), targetTempState->position);
+				distance = FVector::Distance(getPosition(), targetTempState->rebasedPosition(localOrigin));
 			}
 		}
 		// If we want to use receivedPositionThreshold, check if the distance has passed the threshold.
@@ -1264,18 +1331,20 @@ void USmoothSync::applyInterpolationOrExtrapolation()
 					actualPositionLerpSpeed = 1;
 					shouldTeleport = true;
 				}
+
 				FVector newPosition = getPosition();
+
 				if (isSyncingXPosition())
 				{
-					newPosition.X = targetTempState->position.X;
+					newPosition.X = targetTempState->rebasedPosition(localOrigin).X;
 				}
 				if (isSyncingYPosition())
 				{
-					newPosition.Y = targetTempState->position.Y;
+					newPosition.Y = targetTempState->rebasedPosition(localOrigin).Y;
 				}
 				if (isSyncingZPosition())
 				{
-					newPosition.Z = targetTempState->position.Z;
+					newPosition.Z = targetTempState->rebasedPosition(localOrigin).Z;
 				}
 				setPosition(FMath::Lerp(getPosition(), newPosition, actualPositionLerpSpeed));
 			}
@@ -1399,13 +1468,17 @@ bool USmoothSync::extrapolate(float interpolationTime, SmoothState *targetState)
 	// If we don't want to extrapolate, don't.
 	if (extrapolationMode == ExtrapolationMode::NONE) return false;
 
+	FIntVector localOrigin = GetWorld()->OriginLocation;
+
 	// Determines velocities based on previous State. Used on non-rigidbodies and when not syncing velocity 
 	// to save bandwidth. This is less accurate than syncing velocity for rigidbodies. 
 	if (extrapolationMode != ExtrapolationMode::NONE && stateCount >= 2)
 	{
 		if (syncVelocity == SyncMode::NONE && !stateBuffer[0]->atPositionalRest)
 		{
-			targetState->velocity = (stateBuffer[0]->position - stateBuffer[1]->position) / (stateBuffer[0]->ownerTimestamp - stateBuffer[1]->ownerTimestamp);
+			FVector latestPosition = stateBuffer[0]->rebasedPosition(localOrigin);
+			FVector previousPosition = stateBuffer[1]->rebasedPosition(localOrigin);
+			targetState->velocity = (latestPosition - previousPosition) / (stateBuffer[0]->ownerTimestamp - stateBuffer[1]->ownerTimestamp);
 		}
 		if (syncAngularVelocity == SyncMode::NONE && !stateBuffer[0]->atRotationalRest)
 		{
@@ -1481,7 +1554,7 @@ bool USmoothSync::extrapolate(float interpolationTime, SmoothState *targetState)
 
 	// Don't extrapolate for more than extrapolationDistanceLimit if we are using it.
 	if (useExtrapolationDistanceLimit &&
-		FVector::Distance(stateBuffer[0]->position, targetState->position) >= extrapolationDistanceLimit)
+		FVector::Distance(stateBuffer[0]->rebasedPosition(localOrigin), targetState->rebasedPosition(localOrigin)) >= extrapolationDistanceLimit)
 	{
 		return false;
 	}
@@ -1775,9 +1848,8 @@ void USmoothSync::addTeleportState(SmoothState *teleportState)
 			if (stateBuffer[i]->ownerTimestamp > teleportState->ownerTimestamp)
 			{
 				// Shift the buffer from where the teleport State should be and add the new State. 
-				for (int j = stateBufferLength - 1; j >= 1; j--)
+				for (int j = stateBufferLength - 1; j > i + 1; j--)
 				{
-					if (j == i) break;
 					stateBuffer[j] = stateBuffer[j - 1];
 				}
 				stateBuffer[i + 1] = teleportState;
@@ -2262,4 +2334,18 @@ void USmoothSync::adjustOwnerTime()
 			lastTimeOwnerTimeWasSet = UGameplayStatics::GetRealTimeSeconds(GetOwner()->GetWorld());
 		}
 	}
+}
+
+/// <summary>Overriding this method from UActorComponent so that we can know when the object is initially replicated.</summary>
+/// <remarks>RepFlags->bNetInitial will be set whenever this Actor becomes relevant for any client.</remarks>
+bool USmoothSync::ReplicateSubobjects(class UActorChannel *Channel, class FOutBunch *Bunch, FReplicationFlags *RepFlags)
+{
+	if (RepFlags->bNetInitial && isUsingOriginRebasing && stateCount > 0)
+	{
+		// Note that we can not call SerializeState directly here because we are already in the middle of the replication process
+		// So instead we set the resentLatestStateFromServer flag so that the state will be serialized next Tick.
+		resendLatestStateFromServer = true;
+	}
+
+	return UActorComponent::ReplicateSubobjects(Channel, Bunch, RepFlags);
 }

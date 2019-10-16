@@ -347,6 +347,11 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Important)
 		float sendRate = 30;
 
+	/// <summary>Whether or not to sync origin for Origin Rebasing.</summary>
+	/// <remarks>You will need this only if your levels are very large. This requires an extra byte when syncing.</remarks>
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Important)
+		bool isUsingOriginRebasing = false;
+
 	/// <summary>Non-owners keep a list of recent States received over the network for interpolating.</summary>
 	/// <remarks>Index 0 is the newest received State.</remarks>
 	SmoothState **stateBuffer;
@@ -395,6 +400,11 @@ public:
 	UMovementComponent* movementComponent;
 	/// <summary>Gets assigned to the character movement component on the actor.</summary>
 	UCharacterMovementComponent* characterMovementComponent;
+
+	/// <summary>Origin on owner when the last SmoothState was sent.</summary>
+	FIntVector lastOriginWhenStateWasSent = FIntVector::ZeroValue;
+	/// <summary>Latest origin received from owner</summary>
+	FIntVector lastOriginWhenStateWasReceived = FIntVector::ZeroValue;
 
 	/// <summary>Gets assigned to the real transform to sync. Use SetSceneComponentToSync() method to set it up. If
 	/// this variable is not assigned, SmoothSync will sync the actor.</summary>
@@ -454,6 +464,15 @@ public:
 	UPrimitiveComponent *primitiveComponent;
 	uint8 latestSentMovementMode;
 	uint8 latestReceivedMovementMode;
+
+	/// <summary>Used to force the server to resend the latest state to all clients</summary>
+	/// <remarks>
+	/// This is useful when using Network Relevancy so that when an object becomes relevant on non-owners they receive
+	/// a valid state immediately instead of waiting until the owner decides to send a new state. This also has the side
+	/// effect of forcing the owner's origin to be re-sent which fixes an issue when combining origin rebasing and net
+	/// cull distance squared.
+	/// </remarks>
+	bool resendLatestStateFromServer = false;
 
 protected:
 
@@ -555,6 +574,7 @@ public:
 	/// <summary>Gets set to true when rotation is the same for two frames in order to tell non-owners to stop extrapolating rotation.</summary>
 	bool sendAtRotationalRestMessage = false;
 	FVector positionLastFrame;
+	FIntVector originLastFrame;
 	FQuat rotationLastFrame;
 	void resetFlags();
 	void sendState();
@@ -600,6 +620,10 @@ public:
 	bool deserializePositionalRestFlag(char syncInformation);
 	bool deserializeRotationalRestFlag(char syncInformation);
 
+	/// <summary>Overriding this method from UActorComponent so that we can know when the object is initially replicated.</summary>
+	/// <remarks>RepFlags->bNetInitial will be set whenever this Actor becomes relevant for any client.</remarks>
+	bool ReplicateSubobjects(class UActorChannel *Channel, class FOutBunch *Bunch, FReplicationFlags *RepFlags);
+
 	void shouldTeleport(SmoothState *start, SmoothState *end, float interpolationTime, float *t);
 	/// <summary>
 	/// Hardcoded information to determine rotation syncing.
@@ -633,4 +657,8 @@ public:
 	/// Hardcoded information to determine if at rotational rest.
 	/// </summary>
 	unsigned char atRotationalRestMask = 128; // 1000_0000
+	/// <summary>
+	/// Hardcoded information to determine origin rebasing
+	/// </summary>
+	char originRebaseMask = 1;        // 0000_0001
 };

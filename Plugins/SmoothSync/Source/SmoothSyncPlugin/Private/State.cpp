@@ -2,7 +2,7 @@
 
 #include "State.h"
 #include "SmoothSync.h"
-
+#include "Engine/World.h"
 
 /// Deconstructor
 SmoothState::~SmoothState()
@@ -31,6 +31,7 @@ void SmoothState::Lerp(SmoothState *targetState, SmoothState *start, SmoothState
 
 	targetState->ownerTimestamp = FMath::Lerp(start->ownerTimestamp, end->ownerTimestamp, t);
 	targetState->movementMode = start->movementMode;
+	targetState->origin = end->origin;
 }
 
 void SmoothState::defaultTheVariables()
@@ -55,7 +56,7 @@ void SmoothState::copyFromSmoothSync(USmoothSync *smoothSyncScript)
 	rotation = smoothSyncScript->getRotation();
 	scale = smoothSyncScript->getScale();
 
-	if (smoothSyncScript->isSimulatingPhysics || 
+	if (smoothSyncScript->isSimulatingPhysics ||
 		(smoothSyncScript->characterMovementComponent != nullptr) ||
 		(smoothSyncScript->movementComponent != nullptr))
 	{
@@ -71,12 +72,14 @@ void SmoothState::copyFromSmoothSync(USmoothSync *smoothSyncScript)
 	{
 		movementMode = smoothSyncScript->characterMovementComponent->MovementMode;
 	}
+	origin = smoothSyncScript->GetWorld()->OriginLocation;
 }
 
 void SmoothState::copyFromState(SmoothState *state)
 {
 	ownerTimestamp = state->ownerTimestamp;
 	position = state->position;
+	origin = state->origin;
 	rotation = state->rotation;
 	scale = state->scale;
 	velocity = state->velocity;
@@ -85,4 +88,10 @@ void SmoothState::copyFromState(SmoothState *state)
 	teleport = state->teleport;
 	atPositionalRest = state->atPositionalRest;
 	atRotationalRest = state->atRotationalRest;
+}
+
+FVector SmoothState::rebasedPosition(FIntVector localWorldOrigin)
+{
+	FIntVector relativeOrigin = origin - localWorldOrigin;
+	return position + (FVector)relativeOrigin;
 }

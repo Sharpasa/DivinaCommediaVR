@@ -32,6 +32,10 @@ public:
 	/// The angularVelocity of the owned object when the state was sent.
 	/// </summary>
 	FVector angularVelocity;
+	/// <summary>
+	/// The origin that position is relative to.
+	/// </summary>
+	FIntVector origin = FIntVector::ZeroValue;
 
 	uint8 movementMode;
 
@@ -50,4 +54,6 @@ public:
 	void defaultTheVariables();
 	void copyFromSmoothSync(USmoothSync *smoothSyncScript);
 	void copyFromState(SmoothState *state);
+
+	FVector rebasedPosition(FIntVector localWorldOrigin);
 };
