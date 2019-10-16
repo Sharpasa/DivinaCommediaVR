@@ -2,6 +2,8 @@
 
 #include "Interactibles/VRLeverComponent.h"
 #include "Net/UnrealNetwork.h"
+#include "Engine.h"
+#include "Engine/EngineTypes.h"
 
   //=============================================================================
 UVRLeverComponent::UVRLeverComponent(const FObjectInitializer& ObjectInitializer)
@@ -554,6 +556,7 @@ bool UVRLeverComponent::GetGripScripts_Implementation(TArray<UVRGripScriptBase*>
 
 bool UVRLeverComponent::DestroyConstraint()
 {
+	/*
 #if WITH_PHYSX
 	if (HandleData)
 	{
@@ -576,12 +579,13 @@ bool UVRLeverComponent::DestroyConstraint()
 		return false;
 	}
 #endif // WITH_PHYSX
-
+	*/
 	return true;
 }
 
 bool UVRLeverComponent::SetupConstraint()
 {
+	/*
 #if WITH_PHYSX
 
 	if (HandleData)
@@ -699,7 +703,7 @@ bool UVRLeverComponent::SetupConstraint()
 #else
 	return false;
 #endif // WITH_PHYSX
-
+	*/
 	return false;
 }
 

@@ -3,6 +3,7 @@
 #include "Grippables/GrippableSkeletalMeshActor.h"
 #include "TimerManager.h"
 #include "Net/UnrealNetwork.h"
+#include "Engine.h"
 
 UOptionalRepSkeletalMeshComponent::UOptionalRepSkeletalMeshComponent(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)
