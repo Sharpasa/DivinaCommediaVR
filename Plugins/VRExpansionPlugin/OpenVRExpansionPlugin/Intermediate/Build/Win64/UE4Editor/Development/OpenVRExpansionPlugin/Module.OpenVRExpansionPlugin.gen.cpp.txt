@@ -1,0 +1,57 @@
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionFunctionLibrary.gen.cpp
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/OpenVRExpansionFunctionLibrary.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
+D:\3D_Programs\VisualStudio\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\KismetProceduralMeshLibrary.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\KismetProceduralMeshLibrary.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\openvrexpansionplugin\intermediate\build\win64\ue4editor\inc\openvrexpansionplugin\OpenVRExpansionFunctionLibrary.generated.h
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionPlugin.init.gen.cpp
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/SteamVRKeyboardComponent.gen.cpp
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/SteamVRKeyboardComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\openvrexpansionplugin\intermediate\build\win64\ue4editor\inc\openvrexpansionplugin\SteamVRKeyboardComponent.generated.h
