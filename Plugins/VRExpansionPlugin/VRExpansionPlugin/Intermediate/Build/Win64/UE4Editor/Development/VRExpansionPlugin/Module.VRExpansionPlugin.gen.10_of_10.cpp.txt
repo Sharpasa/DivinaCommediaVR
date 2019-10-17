@@ -1,0 +1,319 @@
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/VRExpansionPlugin/VRPathFollowingComponent.gen.cpp
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/VRPathFollowingComponent.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBPDatatypes.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRBPDatatypes.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRRootComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRTrackedParentInterface.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRTrackedParentInterface.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBaseCharacter.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\Navigation/PathFollowingComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\navigationsystem\public\NavigationSystemTypes.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemConfig.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/GenericOctreePublic.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationDataInterface.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationData.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AITypes.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITypes.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AIResourceInterface.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIResourceInterface.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\PathFollowingComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBaseCharacterMovementComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/AnimMontage.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\AlphaBlend.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AlphaBlend.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/AnimCompositeBase.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimCompositeBase.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/TimeStretchCurve.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimeStretchCurve.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimMontage.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RVOAvoidanceInterface.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetworkPredictionInterface.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRBaseCharacterMovementComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\ReplicatedVRCameraComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\ReplicatedVRCameraComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\ParentRelativeAttachmentComponent.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRExpansionFunctionLibrary.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineComponent.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineMeshComponent.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRExpansionFunctionLibrary.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\ParentRelativeAttachmentComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripMotionControllerComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\MotionControllerComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRGripInterface.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/VRGripScriptBase.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRGripScriptBase.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRGripInterface.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRGlobalSettings.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\KeyState.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputSettings.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/GS_GunTools.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/GS_Default.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/WorldSettings.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DamageType.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DamageType.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Info.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Info.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSettings.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\GS_Default.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\GS_GunTools.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRGlobalSettings.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\GripMotionControllerComponent.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRBaseCharacter.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRRootComponent.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\AbstractNavData.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\AbstractNavData.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRPathFollowingComponent.generated.h
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/VRExpansionPlugin/VRPlayerController.gen.cpp
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/VRPlayerController.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerMuteList.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Camera/CameraShake.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraShake.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerCameraManager.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ForceFeedbackEffect.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRPlayerController.generated.h
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/VRExpansionPlugin/VRPlayerStart.gen.cpp
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Misc/VRPlayerStart.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerStart.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/NavigationObjectBase.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationObjectBase.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerStart.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BillboardComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRPlayerStart.generated.h
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/VRExpansionPlugin/VRRootComponent.gen.cpp
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/VRExpansionPlugin/VRSimpleCharacter.gen.cpp
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/SimpleChar/VRSimpleCharacter.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\simplechar\VRSimpleCharacterMovementComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystem.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemBase.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemBase.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\navigationsystem\public\NavigationOctree.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/GenericOctree.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\core\public\math\GenericOctree.inl
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationSystem.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRSimpleCharacterMovementComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRSimpleCharacter.generated.h
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/VRExpansionPlugin/VRSimpleCharacterMovementComponent.gen.cpp
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/VRExpansionPlugin/VRSliderComponent.gen.cpp
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Interactibles/VRSliderComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagAssetInterface.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagAssetInterface.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\interactibles\VRInteractibleFunctionLibrary.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRInteractibleFunctionLibrary.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRSliderComponent.generated.h
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/VRExpansionPlugin/VRStereoWidgetComponent.gen.cpp
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/VRStereoWidgetComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/WidgetComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectThreadContext.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\Kismet2/CompilerResultsLog.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\EdGraphToken.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/LocalPlayer.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Player.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Player.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/LocalPlayerSubsystem.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayerSubsystem.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayer.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneSignedObject.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneTrack.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\IMovieSceneTrackInstance.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneAnimTypeID.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneSection.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneFwd.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneSequenceID.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\KeyParams.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieScene.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneSpawnable.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneBinding.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieScenePossessable.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneObjectBindingID.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneFrameMigration.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneTimeController.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendType.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Generators/MovieSceneEasingFunction.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Compilation/MovieSceneSegmentCompiler.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSegment.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTemplate.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneTrackIdentifier.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationField.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationKey.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTrack.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieScenePlayback.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceTransform.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvalTemplate.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvalTemplateBase.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneExecutionTokens.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneExecutionToken.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationScope.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/PersistentEvaluationData.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationOperand.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceInstanceData.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/BlendableToken.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingActuator.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\IMovieScenePlayer.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieScenePreAnimatedState.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneSpawnRegister.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\IMovieSceneObjectSpawner.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationState.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/IMovieSceneMotionVectorSimulation.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/BlendableTokenStack.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneInitialValueStore.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\evaluation\blending\MovieSceneBlendingAccumulator.inl
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Compilation/MovieSceneTemplateInterrogation.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneTrackImplementation.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTree.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceHierarchy.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSectionParameters.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSectionParameters.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceHierarchy.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+d:\3d_programs\epic games\ue_4.23\engine\source\runtime\propertypath\public\PropertyTypeCompatibility.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetComponent.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/StereoLayerComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StereoLayerComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRStereoWidgetComponent.generated.h
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/VRExpansionPlugin/VRTrackedParentInterface.gen.cpp
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/VRExpansionPlugin/VRVehiclePawn.gen.cpp
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Misc/VRVehiclePawn.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/InputDelegateBinding.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/DynamicBlueprintBinding.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DynamicBlueprintBinding.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputDelegateBinding.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRVehiclePawn.generated.h
+D:/BeyondTheGate/DanteVR/DivinaCommediaVR/Plugins/VRExpansionPlugin/VRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/VRExpansionPlugin/VRWheeledVehicle.gen.cpp
+D:\BeyondTheGate\DanteVR\DivinaCommediaVR\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Misc/VRWheeledVehicle.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicle.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicle.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicleMovementComponent.h
+d:\3d_programs\epic games\ue_4.23\engine\plugins\runtime\physxvehicles\source\physxvehicles\public\VehicleWheel.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\VehicleWheel.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicleMovementComponent.generated.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\SimpleWheeledVehicleMovementComponent.h
+D:\3D_Programs\Epic Games\UE_4.23\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\SimpleWheeledVehicleMovementComponent.generated.h
+d:\beyondthegate\dantevr\divinacommediavr\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4editor\inc\vrexpansionplugin\VRWheeledVehicle.generated.h
