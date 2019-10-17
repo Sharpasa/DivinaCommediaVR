@@ -300,603 +300,610 @@
 "../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 299
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 300
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 301
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/ScaredBreathing.uasset" 302
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/WolfBark1.uasset" 303
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/WolfBark2.uasset" 304
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/WolfBark3.uasset" 305
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/WolfBark4.uasset" 306
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/WolfBark5.uasset" 307
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Audio/Wavs/Howl_01.uasset" 308
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Audio/Wavs/Howl_02.uasset" 309
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Audio/Wavs/Howl_03.uasset" 310
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 311
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 312
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 313
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 314
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 315
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 316
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 317
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 318
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 319
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 320
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 321
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 322
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 323
-"../../../Engine/Content/Maps/Entry.umap" 324
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 325
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_CC.uasset" 326
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_D.uasset" 327
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_L.uasset" 328
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_LD.uasset" 329
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_LU.uasset" 330
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_R.uasset" 331
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_RD.uasset" 332
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_RU.uasset" 333
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_U.uasset" 334
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/InPlace/Idle.uasset" 335
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/BlendSpaces/LookAround.uasset" 336
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/Idle.uasset" 337
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunBwdLoop.uasset" 338
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunFwdLoop.uasset" 339
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunLtLoop.uasset" 340
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunRtLoop.uasset" 341
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunStrafeLeft135Loop.uasset" 342
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunStrafeLeft45Loop.uasset" 343
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunStrafeRight135Loop.uasset" 344
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunStrafeRight45Loop.uasset" 345
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeLeft135Loop.uasset" 346
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeLeft45Loop.uasset" 347
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeLeftLoop.uasset" 348
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeRight135Loop.uasset" 349
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeRight45Loop.uasset" 350
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeRightLoop.uasset" 351
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/WalkBwdLoop.uasset" 352
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/WalkFwdLoop.uasset" 353
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/BlendSpaces/ClassicStrafeMovement.uasset" 354
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkBwd_new.uasset" 355
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkFwdLoop.uasset" 356
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkLt135_new.uasset" 357
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkLt45_new.uasset" 358
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkLt_new.uasset" 359
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkRt135_new.uasset" 360
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkRt45_new.uasset" 361
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkRt_new.uasset" 362
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/CrouchLoop_new.uasset" 363
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/BlendSpaces/ClassicStrafeMovement_Crouch.uasset" 364
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Idle2.uasset" 365
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/TurnLt180.uasset" 366
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/TurnLt90_Loop.uasset" 367
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/TurnRt180.uasset" 368
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/TurnRt90_Loop.uasset" 369
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/BlendSpaces/TurnInPlace.uasset" 370
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 371
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/ABP_VRCharacter.uasset" 372
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 373
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 374
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 375
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 376
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 377
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/I_HandAnim.uasset" 378
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/GripEnum.uasset" 379
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 380
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/MannequinHand_HoldingController.uasset" 381
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 382
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 383
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jump_From_Jog.uasset" 384
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jump_From_Stand.uasset" 385
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 386
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 387
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 388
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 389
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/BS_CrouchWalk.uasset" 390
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 391
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 392
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 393
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 394
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/BS_Jog.uasset" 395
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 396
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 397
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 398
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 399
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 400
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 401
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 402
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 403
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 404
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 405
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 406
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 407
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 408
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 409
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 410
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 411
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 412
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 413
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 414
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 415
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 416
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 417
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Ue4ASP_Character.uasset" 418
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/ABP_Character.uasset" 419
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/BaseChar.uasset" 420
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/BP_BaseCharacter.uasset" 421
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 422
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Libraries/E_PrintLevel.uasset" 423
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Libraries/BP_ObjectMacros.uasset" 424
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/HandGrabUsage.uasset" 425
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Interfaces/I_Tool.uasset" 426
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 427
-"../../../Engine/Content/BasicShapes/Cube.uasset" 428
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/BP_ClimbableActor.uasset" 429
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_DV_PlayerStateBase.uasset" 430
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Interfaces/I_ToolUtilizer.uasset" 431
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Effects/CameraFade/M_ColorFade.uasset" 432
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Effects/CameraFade/SM_Sphere.uasset" 433
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Effects/CameraFade/BP_CameraFadeRoutine.uasset" 434
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_GameInstance.uasset" 435
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Libraries/BP_Library.uasset" 436
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/BP_ThirdPersonCamera.uasset" 437
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/CharacterInterface.uasset" 438
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Interfaces/GrabbedActors.uasset" 439
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 440
-"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 441
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 442
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 443
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 444
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 445
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 446
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 447
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 448
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Materials/Xplora_Character/T_SM_Xplora_Character_Full_D.uasset" 449
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Materials/Xplora_Character/T_SM_Xplora_Character_Full_L.uasset" 450
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Materials/Xplora_Character/T_SM_Xplora_Character_Full_N.uasset" 451
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Materials/Xplora_Character/M_Xplora_Character.uasset" 452
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Character/SK_Xplora_Right_Hand_PhysicsAsset.uasset" 453
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Character/SK_Xplora_Right_Hand.uasset" 454
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_bodysuit_AO_R_M.uasset" 455
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_bodysuit_D_Op.uasset" 456
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_bodysuit_N.uasset" 457
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_MM.uasset" 458
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_bodysuit.uasset" 459
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_coat_AO_R_M.uasset" 460
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_coat_D_Op.uasset" 461
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_coat_N.uasset" 462
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_coat.uasset" 463
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 464
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/SK_Dante_PhysAsset.uasset" 465
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/SK_Dante.uasset" 466
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/BP_FPSCharacter.uasset" 467
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Libraries/BP_ActorMacros.uasset" 468
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/Managers/BP_LevelManager.uasset" 469
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_LoadLevelTrigger.uasset" 470
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_DV_GameStateBase.uasset" 471
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/SideScrollerBP/Blueprints/MainMenu/TRAJAN_PRO_REGULAR.uasset" 472
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/SideScrollerBP/Blueprints/MainMenu/TRAJAN_PRO_REGULAR_Font.uasset" 473
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/ButtonFrame.uasset" 474
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/ButtonFrame_Hovered.uasset" 475
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/ButtonFrame_Pressed.uasset" 476
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Menus/Pause/WBP_Button.uasset" 477
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/Dante_UI_Frame.uasset" 478
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/FrameDecor.uasset" 479
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/WBP_Answer.uasset" 480
-"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 481
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Foliage/Flowers/Heather/T_Ice_Noise.uasset" 482
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/M_BurnRetainer.uasset" 483
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/FrameCorner_Alpha.uasset" 484
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/WBP_Question.uasset" 485
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Menus/Pause/WBP_Pause.uasset" 486
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/WBP_Q1.uasset" 487
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/WBP_Q2.uasset" 488
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Menus/BP_VRMenu.uasset" 489
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprints/NavArea_Player.uasset" 490
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprints/NavFilter_Player.uasset" 491
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 492
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 493
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 494
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 495
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/TeleportMCP.uasset" 496
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 497
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 498
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 499
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 500
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 501
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 502
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 503
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 504
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Meshes/1x1_cube.uasset" 505
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Meshes/BeaconDirection.uasset" 506
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Meshes/BeamMesh.uasset" 507
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 508
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 509
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 510
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_Breathing.uasset" 511
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/BP_Dante.uasset" 512
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_DV_BaseGamemode.uasset" 513
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Menus/MainMenu/WBP_MainMenu.uasset" 514
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Menus/MainMenu/BP_MainMenu.uasset" 515
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/BP_Dante_MainMenu.uasset" 516
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_DV_BaseGamemode_MainMenu.uasset" 517
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/MainMenu.umap" 518
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 519
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_SunLight.uasset" 520
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 521
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 522
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 523
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 524
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" 525
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 526
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 527
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uasset" 528
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset" 529
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset" 530
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 531
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 532
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 533
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 534
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 535
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 536
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 537
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 538
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 539
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 540
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 541
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 542
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 543
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 544
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 545
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 546
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 547
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 548
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 549
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 550
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 551
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 552
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 553
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 554
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 555
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 556
-"../../../Engine/Content/BasicShapes/Plane.uasset" 557
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uasset" 558
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 559
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 560
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 561
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 562
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 563
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 564
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 565
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 566
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 567
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 568
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Blueprint/BP_GoodSky.uasset" 569
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_DV_Gamemode_Main.uasset" 570
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_B/Dead_Tree_B_lambert1_BaseColor.uasset" 571
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_B/Dead_Tree_B_lambert1_Normal.uasset" 572
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_B/Dead_Tree_B_lambert1_OcclusionRoughnessMetallic.uasset" 573
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_B/M_Dead_Tree_B.uasset" 574
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_B.uasset" 575
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_B_FoliageType.uasset" 576
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_C/Dead_Tree_C_lambert1_BaseColor.uasset" 577
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_C/Dead_Tree_C_lambert1_Normal.uasset" 578
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_C/Dead_Tree_C_lambert1_OcclusionRoughnessMetallic.uasset" 579
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_C/M_Dead_Tree_C.uasset" 580
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_C.uasset" 581
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_C_FoliageType.uasset" 582
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_D/Dead_Tree_D_lambert1_BaseColor.uasset" 583
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_D/Dead_Tree_D_lambert1_Normal.uasset" 584
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_D/Dead_Tree_D_lambert1_OcclusionRoughnessMetallic.uasset" 585
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_D/M_Dead_Tree_D.uasset" 586
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_D.uasset" 587
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_D_FoliageType.uasset" 588
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_E/Dead_Tree_E_lambert1_BaseColor.uasset" 589
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_E/Dead_Tree_E_lambert1_Normal.uasset" 590
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_E/Dead_Tree_E_lambert1_OcclusionRoughnessMetallic.uasset" 591
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_E/M_Dead_Tree_E.uasset" 592
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_E.uasset" 593
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_E_FoliageType.uasset" 594
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_F/Dead_Tree_F_lambert1_BaseColor.uasset" 595
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_F/Dead_Tree_F_lambert1_Normal.uasset" 596
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_F/Dead_Tree_F_lambert1_OcclusionRoughnessMetallic.uasset" 597
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_F/M_Dead_Tree_F.uasset" 598
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_F.uasset" 599
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_F_FoliageType.uasset" 600
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_G/Dead_Tree_G_lambert1_BaseColor.uasset" 601
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_G/Dead_Tree_G_lambert1_Normal.uasset" 602
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_G/Dead_Tree_G_lambert1_OcclusionRoughnessMetallic.uasset" 603
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_G/M_Dead_Tree_G.uasset" 604
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_G.uasset" 605
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_G_FoliageType.uasset" 606
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_A/Tree_Stump_A_lambert1_BaseColor.uasset" 607
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_A/Tree_Stump_A_lambert1_Normal.uasset" 608
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_A/Tree_Stump_A_lambert1_OcclusionRoughnessMetallic.uasset" 609
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_A/M_Tree_Stump_A.uasset" 610
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Tree_Stump_A.uasset" 611
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Tree_Stump_A_FoliageType.uasset" 612
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_B/Tree_Stump_B_lambert1_BaseColor.uasset" 613
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_B/Tree_Stump_B_lambert1_Normal.uasset" 614
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_B/Tree_Stump_B_lambert1_OcclusionRoughnessMetallic.uasset" 615
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_B/M_Tree_Stump_B.uasset" 616
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Tree_Stump_B.uasset" 617
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Tree_Stump_B_FoliageType.uasset" 618
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 619
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/LayerInfos/Cobblestone_LayerInfo.uasset" 620
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/LayerInfos/Dirt_Road_LayerInfo.uasset" 621
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/LayerInfos/Gravel_LayerInfo.uasset" 622
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/Main_Map_BuiltData.uasset" 623
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Cobblestone_C_D.uasset" 624
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Cobblestone_C_N.uasset" 625
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Cobblestone_C_R.uasset" 626
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_C_Diffuse.uasset" 627
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_C_Normal.uasset" 628
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_C_Roughness.uasset" 629
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_Road_Diffuse.uasset" 630
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_Road_Normal.uasset" 631
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_Road_Roughness.uasset" 632
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Gravel_Diffuse.uasset" 633
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Gravel_Normal.uasset" 634
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Gravel_Roughness.uasset" 635
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Pebbles_C_Diffuse.uasset" 636
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Pebbles_C_Normal.uasset" 637
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Pebbles_C_Roughness.uasset" 638
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/GroundTiles/GravelTile_01/T_gravelTile_01_N.uasset" 639
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/GroundTiles/GravelTile_01/T_gravelTile_01_D_R.uasset" 640
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/GroundTiles/GravelTile_01/T_gravelTile_01_R.uasset" 641
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/M_Landscape.uasset" 642
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/M_Landscape_Inst.uasset" 643
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/T_Moon_Atmosphere.uasset" 644
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/M_Moon_Atmoshpere.uasset" 645
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/M_Moon_Atmoshpere_Inst.uasset" 646
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/T_Moon.uasset" 647
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/M_Moon.uasset" 648
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/M_Moon_Inst.uasset" 649
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 650
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/GhostlyForest.uasset" 651
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_GhostlyForest.uasset" 652
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_A/Dead_Tree_A_lambert1_BaseColor.uasset" 653
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_A/Dead_Tree_A_lambert1_Normal.uasset" 654
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_A/Dead_Tree_A_lambert1_OcclusionRoughnessMetallic.uasset" 655
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_A/M_Dead_Tree_A.uasset" 656
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_A.uasset" 657
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_A/Fallen_Trunk_A_lambert1_BaseColor.uasset" 658
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_A/Fallen_Trunk_A_lambert1_Normal.uasset" 659
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_A/Fallen_Trunk_A_lambert1_OcclusionRoughnessMetallic.uasset" 660
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_A/M_Fallen_Trunk_A.uasset" 661
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Fallen_Trunk_A.uasset" 662
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_B/Fallen_Trunk_B_lambert1_BaseColor.uasset" 663
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_B/Fallen_Trunk_B_lambert1_Normal.uasset" 664
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_B/Fallen_Trunk_B_lambert1_OcclusionRoughnessMetallic.uasset" 665
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_B/M_Fallen_Trunk_B.uasset" 666
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Fallen_Trunk_B.uasset" 667
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_C/Fallen_Trunk_C_lambert1_BaseColor.uasset" 668
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_C/Fallen_Trunk_C_lambert1_Normal.uasset" 669
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_C/Fallen_Trunk_C_lambert1_OcclusionRoughnessMetallic.uasset" 670
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_C/M_Fallen_Trunk_C.uasset" 671
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Fallen_Trunk_C.uasset" 672
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Roots_F/Roots_F_lambert1_BaseColor.uasset" 673
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Roots_F/Roots_F_lambert1_Normal.uasset" 674
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Roots_F/Roots_F_lambert1_OcclusionRoughnessMetallic.uasset" 675
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Roots_F/M_Roots_F.uasset" 676
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Roots/Roots_F.uasset" 677
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Props/SM_Moon.uasset" 678
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Cave/t_gate_AO_R_M.uasset" 679
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Cave/t_gate_D_Op.uasset" 680
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Cave/t_gate_E.uasset" 681
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Cave/t_gate_N.uasset" 682
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Cave/M_Cave.uasset" 683
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Props/test_gate/cave.uasset" 684
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_LimbTile_02_D_Tex.uasset" 685
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_LimbTile_02_N_Tex.uasset" 686
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Branches_2_Mat.uasset" 687
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_Tile_01_D_Tex.uasset" 688
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_Tile_01_N_Tex.uasset" 689
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_TileMoss_01_D_Tex.uasset" 690
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Branches_Mat.uasset" 691
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Fronds_Mat.uasset" 692
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 693
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Normal_Tex.uasset" 694
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Specular_Tex.uasset" 695
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Tex.uasset" 696
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Leaves_Mat.uasset" 697
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 698
-"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/FoliageZRotation.uasset" 699
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 700
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 701
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 702
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 703
-"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/ImposterUVs.uasset" 704
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderMask.uasset" 705
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01.uasset" 706
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_Depth.uasset" 707
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_N.uasset" 708
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_S_R.uasset" 709
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_SSS.uasset" 710
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/M_CustomDepthBillboard.uasset" 711
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/M_CustomDepthBillboard_Inst.uasset" 712
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_02.uasset" 713
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Leaves_Mat2.uasset" 714
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_01_Atlas_Billboards_Normal_Tex.uasset" 715
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_01_Atlas_Billboards_Tex.uasset" 716
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_01_Billboard_Mat.uasset" 717
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02.uasset" 718
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.uasset" 719
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 720
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/firesingle/bigfire_single.uasset" 721
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Flow/disort_test2.uasset" 722
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Flow/EmberNoise3.uasset" 723
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Master/Distortion_Mat.uasset" 724
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Distortion/Distortion_Mat_Inst2.uasset" 725
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Flow/Flame.uasset" 726
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Master/Basic_Emi_Mat.uasset" 727
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Etc/Flame_Inst.uasset" 728
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/CandleFire/CandleFire_D.uasset" 729
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Master/Sequence_Mat.uasset" 730
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Fire/blowingFire_fwd2.uasset" 731
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Fire_Inst/BlowingFire_fwd2_Inst.uasset" 732
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Fireloop/bigfire2.uasset" 733
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Fireloop_Inst/bigfire2_Inst.uasset" 734
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Flow/Circle_normal.uasset" 735
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/smoke/0_6_smoke.uasset" 736
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Master/Smoke1_Mat.uasset" 737
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/smoke/3_6_smoke4_vg.uasset" 738
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Smoke_Inst/3_6_smoke4_vg_Inst.uasset" 739
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Particles/Fire/Fire_06.uasset" 740
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Fire/bigfire_fwd_rs.uasset" 741
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Fire_Inst/bigfire_fwd_rs_Inst.uasset" 742
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Fireloop/bigfire_VG_smk.uasset" 743
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Fireloop_Inst/bigfire_vg_smk_Inst.uasset" 744
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/smoke/4_6_smoke5_vg.uasset" 745
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Smoke_Inst/4_6_smoke5_vg_Inst.uasset" 746
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Particles/Fire/Fire_11.uasset" 747
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/Main_Map.umap" 748
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_1_BuiltData.uasset" 749
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Narrative/SC_Narrativa_1.uasset" 750
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Narrative/SC_Narrativa_2.uasset" 751
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Rocks/Mountain_RockFace_002/T_MountainRock_N.uasset" 752
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Rocks/Mountain_RockFace_002/T_MountainRock_D.uasset" 753
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Rocks/Mountain_RockFace_002/M_Rock.uasset" 754
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock.uasset" 755
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock.uasset" 756
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_1.umap" 757
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Meshes/Lion_M_Skeleton.uasset" 758
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Stand_01.uasset" 759
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Add_Loco_L.uasset" 760
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Add_Loco_R.uasset" 761
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Add_Neutral.uasset" 762
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Comp/Comp_Lean.uasset" 763
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/InPlace/Loco_Sneak-IP.uasset" 764
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Loco_Run.uasset" 765
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Loco_Sneak.uasset" 766
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Loco_Sprint.uasset" 767
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Loco_Trot.uasset" 768
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Comp/Comp_Loco.uasset" 769
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/SK-Wolf_Skeleton.uasset" 770
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Neutral.uasset" 771
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_Down.uasset" 772
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_Left.uasset" 773
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_LeftDown.uasset" 774
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_LeftUp.uasset" 775
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_Right.uasset" 776
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_RightDown.uasset" 777
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_RightUp.uasset" 778
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_Up.uasset" 779
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Comp_Look.uasset" 780
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Attack_StandAngry_01_Low.uasset" 781
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Stand_Breathing_01.uasset" 782
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Stand_Idle_01.uasset" 783
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Stand_Idle_02.uasset" 784
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/StandAngry_Breathing_01.uasset" 785
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Trans_Stand_to_StandAngry.uasset" 786
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Trans_StandAngry_to_Stand.uasset" 787
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_Run.uasset" 788
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_RunL.uasset" 789
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_RunR.uasset" 790
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_Sprint.uasset" 791
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_SprintL.uasset" 792
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_SprintR.uasset" 793
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_Trot.uasset" 794
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_TrotL.uasset" 795
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_TrotR.uasset" 796
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_Walk.uasset" 797
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_WalkL.uasset" 798
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_WalkR.uasset" 799
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_WalkSlow.uasset" 800
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_WalkSlowL.uasset" 801
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_WalkSlowR.uasset" 802
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Comp_Loco.uasset" 803
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/LIB_Anims.uasset" 804
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/ABP_Animals_Wolf.uasset" 805
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/FC_AnimalsWolf_LocomotionBias.uasset" 806
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Materials/Shaders/Textures/Normal.uasset" 807
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Materials/Shaders/Textures/White.uasset" 808
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Materials/Shaders/Realistic-SH.uasset" 809
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Textures/Wolf-D.uasset" 810
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Textures/Wolf-N.uasset" 811
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Textures/Wolf-R.uasset" 812
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Materials/MAT-Wolf.uasset" 813
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/SK-Wolf_PhysicsAsset.uasset" 814
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/SK-Wolf.uasset" 815
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AnimalsBase.uasset" 816
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/ABP_Animals_Lion.uasset" 817
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Attack_Forward.uasset" 818
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/BaseAttenuation.uasset" 819
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Wolf_Growl.uasset" 820
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_WolfBite.uasset" 821
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Attack_Forward_Montage.uasset" 822
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Attack_StandAngry_02_High.uasset" 823
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Attack_StandAngry_02_High_Montage.uasset" 824
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Bark.uasset" 825
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_WolfBark.uasset" 826
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Bark_Montage.uasset" 827
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AIController.uasset" 828
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AILynxController.uasset" 829
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Angry_Dog-SoundBible_com-105246558.uasset" 830
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_LynxPersistent.uasset" 831
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Textures/Normal.uasset" 832
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Default_Eye-SH.uasset" 833
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Materials/Lion_Eye_Material.uasset" 834
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Textures/Grey.uasset" 835
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Textures/White_Linear.uasset" 836
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Default-SH.uasset" 837
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Textures/Lion_M_BaseColor.uasset" 838
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Textures/Lion_M_Normal.uasset" 839
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Textures/Lion_M_Roughness.uasset" 840
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Materials/Lion_M_Material.uasset" 841
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Meshes/Lion_M_PhysicsAsset.uasset" 842
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Meshes/Lion_M.uasset" 843
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AnimalsLynx.uasset" 844
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_2_BuiltData.uasset" 845
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Narrative/SC_Narrativa_3.uasset" 846
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_2.umap" 847
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/InPlace/Attack_Long_01-IP.uasset" 848
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/InPlace/Attack_Long_01-IP_Montage.uasset" 849
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/InPlace/Attack_Long_02-IP.uasset" 850
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/InPlace/Attack_Long_02-IP_Montage.uasset" 851
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Add_Attack_Bite_R.uasset" 852
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AILionController.uasset" 853
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_LionPersistent.uasset" 854
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Default_Alpha-SH.uasset" 855
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Textures/Lion_M_APFur_BaseColor.uasset" 856
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Materials/Lion_Mane_M_Material.uasset" 857
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Meshes/Lion_M_Mane.uasset" 858
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AnimalsLion.uasset" 859
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_3_BuiltData.uasset" 860
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_3.umap" 861
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AIWolfController.uasset" 862
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_WolfPersistent.uasset" 863
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AnimalsWolf.uasset" 864
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Narrative/SC_Narrativa_4.uasset" 865
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/BP_LoadLevelTrigger_Virgilio.uasset" 866
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_4_BuiltData.uasset" 867
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_4.umap" 868
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Accessories/Virgilio_Accessories_Virgilio_Accessories_BaseColor.uasset" 869
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Accessories/Virgilio_Accessories_Virgilio_Accessories_Normal.uasset" 870
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Accessories/Virgilio_Accessories_Virgilio_Accessories_OcclusionRoughnessMetallic.uasset" 871
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Accessories/M_Virgilio_Accessories.uasset" 872
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Body/Virgilio_Body_Virgilio_Body_BaseColor.uasset" 873
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Body/Virgilio_Body_Virgilio_Body_Normal.uasset" 874
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Body/Virgilio_Body_Virgilio_Body_OcclusionRoughnessMetallic.uasset" 875
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Body/M_Virgilio_Body.uasset" 876
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Clothes/Virgilio_Clothes_Virgilio_Clothes_BaseColor.uasset" 877
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Clothes/Virgilio_Clothes_Virgilio_Clothes_Normal.uasset" 878
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Clothes/Virgilio_Clothes_Virgilio_Clothes_OcclusionRoughnessMetallic.uasset" 879
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Clothes/M_Virgilio_Clothes.uasset" 880
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Eyes/Virgilio_Eyes_Virgilio_Eyes_BaseColor.uasset" 881
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Eyes/Virgilio_Eyes_Virgilio_Eyes_Normal.uasset" 882
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Eyes/Virgilio_Eyes_Virgilio_Eyes_OcclusionRoughnessMetallic.uasset" 883
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Eyes/M_Virgilio_Eyes.uasset" 884
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Characters/SK_Virgilio_PhysicsAsset.uasset" 885
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Characters/SK_Virgilio.uasset" 886
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/BP_Virgilio.uasset" 887
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_SnapToLocation.uasset" 888
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_5_BuiltData.uasset" 889
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Audio/Wavs/Howl_04.uasset" 890
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Audio/Cues/Howl_04_Cue.uasset" 891
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_5.umap" 892
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/BP_Virgilio_SecondScene.uasset" 893
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_6_BuiltData.uasset" 894
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_6.umap" 895
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/WBP_Q3.uasset" 896
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/BP_Questions.uasset" 897
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_7_BuiltData.uasset" 898
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_7.umap" 899
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/TextRenders_BuiltData.uasset" 900
-"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/TextRenders.umap" 901
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Lion_2.uasset" 302
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Lion_3.uasset" 303
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/ScaredBreathing.uasset" 304
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/WolfBark1.uasset" 305
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/WolfBark2.uasset" 306
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/WolfBark3.uasset" 307
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/WolfBark4.uasset" 308
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/WolfBark5.uasset" 309
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Audio/Wavs/Howl_01.uasset" 310
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Audio/Wavs/Howl_02.uasset" 311
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Audio/Wavs/Howl_03.uasset" 312
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 313
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 314
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 315
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 316
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 317
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 318
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 319
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 320
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 321
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 322
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 323
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 324
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 325
+"../../../Engine/Content/Maps/Entry.umap" 326
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 327
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_CC.uasset" 328
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_D.uasset" 329
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_L.uasset" 330
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_LD.uasset" 331
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_LU.uasset" 332
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_R.uasset" 333
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_RD.uasset" 334
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_RU.uasset" 335
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/AimOffsets/Idle_U.uasset" 336
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/InPlace/Idle.uasset" 337
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/BlendSpaces/LookAround.uasset" 338
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/Idle.uasset" 339
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunBwdLoop.uasset" 340
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunFwdLoop.uasset" 341
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunLtLoop.uasset" 342
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunRtLoop.uasset" 343
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunStrafeLeft135Loop.uasset" 344
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunStrafeLeft45Loop.uasset" 345
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunStrafeRight135Loop.uasset" 346
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/RunStrafeRight45Loop.uasset" 347
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeLeft135Loop.uasset" 348
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeLeft45Loop.uasset" 349
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeLeftLoop.uasset" 350
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeRight135Loop.uasset" 351
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeRight45Loop.uasset" 352
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/StrafeRightLoop.uasset" 353
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/WalkBwdLoop.uasset" 354
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/Animations/RootMotion/WalkFwdLoop.uasset" 355
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/BlendSpaces/ClassicStrafeMovement.uasset" 356
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkBwd_new.uasset" 357
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkFwdLoop.uasset" 358
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkLt135_new.uasset" 359
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkLt45_new.uasset" 360
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkLt_new.uasset" 361
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkRt135_new.uasset" 362
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkRt45_new.uasset" 363
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Crouch_WalkRt_new.uasset" 364
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/CrouchLoop_new.uasset" 365
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/BlendSpaces/ClassicStrafeMovement_Crouch.uasset" 366
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/Idle2.uasset" 367
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/TurnLt180.uasset" 368
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/TurnLt90_Loop.uasset" 369
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/TurnRt180.uasset" 370
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/InPlace/TurnRt90_Loop.uasset" 371
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MovementAnimsetPro_BTC/BlendSpaces/TurnInPlace.uasset" 372
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 373
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/ABP_VRCharacter.uasset" 374
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 375
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 376
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 377
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 378
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 379
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/I_HandAnim.uasset" 380
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/GripEnum.uasset" 381
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 382
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Mannequin/Animations/MannequinHand_HoldingController.uasset" 383
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 384
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 385
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jump_From_Jog.uasset" 386
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jump_From_Stand.uasset" 387
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 388
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 389
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 390
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 391
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/BS_CrouchWalk.uasset" 392
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 393
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 394
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 395
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 396
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/BS_Jog.uasset" 397
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 398
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 399
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 400
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 401
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 402
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 403
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 404
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 405
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 406
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 407
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 408
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 409
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 410
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 411
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 412
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 413
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 414
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 415
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 416
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 417
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 418
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 419
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/AnimStarterPack/Ue4ASP_Character.uasset" 420
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/ABP_Character.uasset" 421
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/BaseChar.uasset" 422
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/BP_BaseCharacter.uasset" 423
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 424
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Libraries/E_PrintLevel.uasset" 425
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Libraries/BP_ObjectMacros.uasset" 426
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/HandGrabUsage.uasset" 427
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Interfaces/I_Tool.uasset" 428
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 429
+"../../../Engine/Content/BasicShapes/Cube.uasset" 430
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/BP_ClimbableActor.uasset" 431
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_DV_PlayerStateBase.uasset" 432
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Interfaces/I_ToolUtilizer.uasset" 433
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Effects/CameraFade/M_ColorFade.uasset" 434
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Effects/CameraFade/SM_Sphere.uasset" 435
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Effects/CameraFade/BP_CameraFadeRoutine.uasset" 436
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_GameInstance.uasset" 437
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Libraries/BP_Library.uasset" 438
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/BP_ThirdPersonCamera.uasset" 439
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/CharacterInterface.uasset" 440
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Interfaces/GrabbedActors.uasset" 441
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 442
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 443
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 444
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 445
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 446
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 447
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 448
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 449
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 450
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Materials/Xplora_Character/T_SM_Xplora_Character_Full_D.uasset" 451
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Materials/Xplora_Character/T_SM_Xplora_Character_Full_L.uasset" 452
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Materials/Xplora_Character/T_SM_Xplora_Character_Full_N.uasset" 453
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Materials/Xplora_Character/M_Xplora_Character.uasset" 454
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Character/SK_Xplora_Right_Hand_PhysicsAsset.uasset" 455
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Character/SK_Xplora_Right_Hand.uasset" 456
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_bodysuit_AO_R_M.uasset" 457
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_bodysuit_D_Op.uasset" 458
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_bodysuit_N.uasset" 459
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_MM.uasset" 460
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_bodysuit.uasset" 461
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_coat_AO_R_M.uasset" 462
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_coat_D_Op.uasset" 463
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_coat_N.uasset" 464
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/dante_coat.uasset" 465
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 466
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/SK_Dante_PhysAsset.uasset" 467
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/ThirdPersonBP/Blueprints/SK_Dante.uasset" 468
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/VRCharacter/BP_FPSCharacter.uasset" 469
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Libraries/BP_ActorMacros.uasset" 470
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/Managers/BP_LevelManager.uasset" 471
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Narrator/BP_NarratorAudio.uasset" 472
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_DV_Gamemode_Main.uasset" 473
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_LoadLevelTrigger.uasset" 474
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_DV_GameStateBase.uasset" 475
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/SideScrollerBP/Blueprints/MainMenu/TRAJAN_PRO_REGULAR.uasset" 476
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/SideScrollerBP/Blueprints/MainMenu/TRAJAN_PRO_REGULAR_Font.uasset" 477
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/ButtonFrame.uasset" 478
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/ButtonFrame_Hovered.uasset" 479
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/ButtonFrame_Pressed.uasset" 480
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Menus/Pause/WBP_Button.uasset" 481
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/Dante_UI_Frame.uasset" 482
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/FrameDecor.uasset" 483
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/WBP_Answer.uasset" 484
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 485
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Foliage/Flowers/Heather/T_Ice_Noise.uasset" 486
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/M_BurnRetainer.uasset" 487
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/FrameCorner_Alpha.uasset" 488
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/WBP_Question.uasset" 489
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Menus/Pause/WBP_Pause.uasset" 490
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/WBP_Q1.uasset" 491
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/WBP_Q2.uasset" 492
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Menus/BP_VRMenu.uasset" 493
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprints/NavArea_Player.uasset" 494
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprints/NavFilter_Player.uasset" 495
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 496
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 497
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 498
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 499
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/TeleportMCP.uasset" 500
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 501
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 502
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 503
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 504
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 505
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 506
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 507
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 508
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Meshes/1x1_cube.uasset" 509
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Meshes/BeaconDirection.uasset" 510
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Meshes/BeamMesh.uasset" 511
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 512
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 513
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 514
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_Breathing.uasset" 515
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/BP_Dante.uasset" 516
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_DV_BaseGamemode.uasset" 517
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Menus/MainMenu/WBP_MainMenu.uasset" 518
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Menus/MainMenu/BP_MainMenu.uasset" 519
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/BP_Dante_MainMenu.uasset" 520
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_DV_BaseGamemode_MainMenu.uasset" 521
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/MainMenu.umap" 522
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 523
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_SunLight.uasset" 524
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 525
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 526
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 527
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 528
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" 529
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 530
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 531
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uasset" 532
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset" 533
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset" 534
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 535
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 536
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 537
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 538
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 539
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 540
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 541
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 542
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 543
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 544
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 545
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 546
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 547
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 548
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 549
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 550
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 551
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 552
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 553
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 554
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 555
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 556
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 557
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 558
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 559
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 560
+"../../../Engine/Content/BasicShapes/Plane.uasset" 561
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uasset" 562
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 563
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 564
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 565
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 566
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 567
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 568
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 569
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 570
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 571
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 572
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/GoodSky/Blueprint/BP_GoodSky.uasset" 573
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_B/Dead_Tree_B_lambert1_BaseColor.uasset" 574
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_B/Dead_Tree_B_lambert1_Normal.uasset" 575
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_B/Dead_Tree_B_lambert1_OcclusionRoughnessMetallic.uasset" 576
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_B/M_Dead_Tree_B.uasset" 577
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_B.uasset" 578
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_B_FoliageType.uasset" 579
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_C/Dead_Tree_C_lambert1_BaseColor.uasset" 580
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_C/Dead_Tree_C_lambert1_Normal.uasset" 581
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_C/Dead_Tree_C_lambert1_OcclusionRoughnessMetallic.uasset" 582
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_C/M_Dead_Tree_C.uasset" 583
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_C.uasset" 584
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_C_FoliageType.uasset" 585
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_D/Dead_Tree_D_lambert1_BaseColor.uasset" 586
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_D/Dead_Tree_D_lambert1_Normal.uasset" 587
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_D/Dead_Tree_D_lambert1_OcclusionRoughnessMetallic.uasset" 588
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_D/M_Dead_Tree_D.uasset" 589
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_D.uasset" 590
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_D_FoliageType.uasset" 591
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_E/Dead_Tree_E_lambert1_BaseColor.uasset" 592
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_E/Dead_Tree_E_lambert1_Normal.uasset" 593
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_E/Dead_Tree_E_lambert1_OcclusionRoughnessMetallic.uasset" 594
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_E/M_Dead_Tree_E.uasset" 595
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_E.uasset" 596
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_E_FoliageType.uasset" 597
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_F/Dead_Tree_F_lambert1_BaseColor.uasset" 598
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_F/Dead_Tree_F_lambert1_Normal.uasset" 599
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_F/Dead_Tree_F_lambert1_OcclusionRoughnessMetallic.uasset" 600
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_F/M_Dead_Tree_F.uasset" 601
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_F.uasset" 602
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_F_FoliageType.uasset" 603
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_G/Dead_Tree_G_lambert1_BaseColor.uasset" 604
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_G/Dead_Tree_G_lambert1_Normal.uasset" 605
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_G/Dead_Tree_G_lambert1_OcclusionRoughnessMetallic.uasset" 606
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_G/M_Dead_Tree_G.uasset" 607
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_G.uasset" 608
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_G_FoliageType.uasset" 609
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_A/Tree_Stump_A_lambert1_BaseColor.uasset" 610
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_A/Tree_Stump_A_lambert1_Normal.uasset" 611
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_A/Tree_Stump_A_lambert1_OcclusionRoughnessMetallic.uasset" 612
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_A/M_Tree_Stump_A.uasset" 613
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Tree_Stump_A.uasset" 614
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Tree_Stump_A_FoliageType.uasset" 615
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_B/Tree_Stump_B_lambert1_BaseColor.uasset" 616
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_B/Tree_Stump_B_lambert1_Normal.uasset" 617
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_B/Tree_Stump_B_lambert1_OcclusionRoughnessMetallic.uasset" 618
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Tree_Stump_B/M_Tree_Stump_B.uasset" 619
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Tree_Stump_B.uasset" 620
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Tree_Stump_B_FoliageType.uasset" 621
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 622
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/LayerInfos/Cobblestone_LayerInfo.uasset" 623
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/LayerInfos/Dirt_Road_LayerInfo.uasset" 624
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/LayerInfos/Gravel_LayerInfo.uasset" 625
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/Main_Map_BuiltData.uasset" 626
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Cobblestone_C_D.uasset" 627
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Cobblestone_C_N.uasset" 628
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Cobblestone_C_R.uasset" 629
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_C_Diffuse.uasset" 630
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_C_Normal.uasset" 631
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_C_Roughness.uasset" 632
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_Road_Diffuse.uasset" 633
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_Road_Normal.uasset" 634
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Grass_Road_Roughness.uasset" 635
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Gravel_Diffuse.uasset" 636
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Gravel_Normal.uasset" 637
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Gravel_Roughness.uasset" 638
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Pebbles_C_Diffuse.uasset" 639
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Pebbles_C_Normal.uasset" 640
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/Pebbles_C_Roughness.uasset" 641
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/GroundTiles/GravelTile_01/T_gravelTile_01_N.uasset" 642
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/GroundTiles/GravelTile_01/T_gravelTile_01_D_R.uasset" 643
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/GroundTiles/GravelTile_01/T_gravelTile_01_R.uasset" 644
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/M_Landscape.uasset" 645
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Landscape/M_Landscape_Inst.uasset" 646
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/T_Moon_Atmosphere.uasset" 647
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/M_Moon_Atmoshpere.uasset" 648
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/M_Moon_Atmoshpere_Inst.uasset" 649
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/T_Moon.uasset" 650
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/M_Moon.uasset" 651
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Moon/M_Moon_Inst.uasset" 652
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 653
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/GhostlyForest.uasset" 654
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_GhostlyForest.uasset" 655
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_A/Dead_Tree_A_lambert1_BaseColor.uasset" 656
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_A/Dead_Tree_A_lambert1_Normal.uasset" 657
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_A/Dead_Tree_A_lambert1_OcclusionRoughnessMetallic.uasset" 658
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Dead_Tree_A/M_Dead_Tree_A.uasset" 659
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Dead_Tree_A.uasset" 660
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_A/Fallen_Trunk_A_lambert1_BaseColor.uasset" 661
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_A/Fallen_Trunk_A_lambert1_Normal.uasset" 662
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_A/Fallen_Trunk_A_lambert1_OcclusionRoughnessMetallic.uasset" 663
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_A/M_Fallen_Trunk_A.uasset" 664
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Fallen_Trunk_A.uasset" 665
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_B/Fallen_Trunk_B_lambert1_BaseColor.uasset" 666
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_B/Fallen_Trunk_B_lambert1_Normal.uasset" 667
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_B/Fallen_Trunk_B_lambert1_OcclusionRoughnessMetallic.uasset" 668
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_B/M_Fallen_Trunk_B.uasset" 669
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Fallen_Trunk_B.uasset" 670
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_C/Fallen_Trunk_C_lambert1_BaseColor.uasset" 671
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_C/Fallen_Trunk_C_lambert1_Normal.uasset" 672
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_C/Fallen_Trunk_C_lambert1_OcclusionRoughnessMetallic.uasset" 673
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Fallen_Trunk_C/M_Fallen_Trunk_C.uasset" 674
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Dead_Trees/Fallen_Trunk_C.uasset" 675
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Roots_F/Roots_F_lambert1_BaseColor.uasset" 676
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Roots_F/Roots_F_lambert1_Normal.uasset" 677
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Roots_F/Roots_F_lambert1_OcclusionRoughnessMetallic.uasset" 678
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Roots_F/M_Roots_F.uasset" 679
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Foliage/Roots/Roots_F.uasset" 680
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Props/SM_Moon.uasset" 681
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Cave/t_gate_AO_R_M.uasset" 682
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Cave/t_gate_D_Op.uasset" 683
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Cave/t_gate_E.uasset" 684
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Cave/t_gate_N.uasset" 685
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Cave/M_Cave.uasset" 686
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Props/test_gate/cave.uasset" 687
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_LimbTile_02_D_Tex.uasset" 688
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_LimbTile_02_N_Tex.uasset" 689
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Branches_2_Mat.uasset" 690
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_Tile_01_D_Tex.uasset" 691
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_Tile_01_N_Tex.uasset" 692
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_TileMoss_01_D_Tex.uasset" 693
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Branches_Mat.uasset" 694
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Fronds_Mat.uasset" 695
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 696
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Normal_Tex.uasset" 697
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Specular_Tex.uasset" 698
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Tex.uasset" 699
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Leaves_Mat.uasset" 700
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 701
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/FoliageZRotation.uasset" 702
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 703
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 704
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 705
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 706
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/ImposterUVs.uasset" 707
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderMask.uasset" 708
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01.uasset" 709
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_Depth.uasset" 710
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_N.uasset" 711
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_S_R.uasset" 712
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_SSS.uasset" 713
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/M_CustomDepthBillboard.uasset" 714
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/M_CustomDepthBillboard_Inst.uasset" 715
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_02.uasset" 716
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Leaves_Mat2.uasset" 717
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_01_Atlas_Billboards_Normal_Tex.uasset" 718
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_01_Atlas_Billboards_Tex.uasset" 719
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_01_Billboard_Mat.uasset" 720
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02.uasset" 721
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.uasset" 722
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 723
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/firesingle/bigfire_single.uasset" 724
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Flow/disort_test2.uasset" 725
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Flow/EmberNoise3.uasset" 726
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Master/Distortion_Mat.uasset" 727
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Distortion/Distortion_Mat_Inst2.uasset" 728
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Flow/Flame.uasset" 729
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Master/Basic_Emi_Mat.uasset" 730
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Etc/Flame_Inst.uasset" 731
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/CandleFire/CandleFire_D.uasset" 732
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Master/Sequence_Mat.uasset" 733
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Fire/blowingFire_fwd2.uasset" 734
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Fire_Inst/BlowingFire_fwd2_Inst.uasset" 735
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Fireloop/bigfire2.uasset" 736
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Fireloop_Inst/bigfire2_Inst.uasset" 737
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Flow/Circle_normal.uasset" 738
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/smoke/0_6_smoke.uasset" 739
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Master/Smoke1_Mat.uasset" 740
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/smoke/3_6_smoke4_vg.uasset" 741
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Smoke_Inst/3_6_smoke4_vg_Inst.uasset" 742
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Particles/Fire/Fire_06.uasset" 743
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Fire/bigfire_fwd_rs.uasset" 744
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Fire_Inst/bigfire_fwd_rs_Inst.uasset" 745
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/Fireloop/bigfire_VG_smk.uasset" 746
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Fireloop_Inst/bigfire_vg_smk_Inst.uasset" 747
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Textures/smoke/4_6_smoke5_vg.uasset" 748
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Materials/Smoke_Inst/4_6_smoke5_vg_Inst.uasset" 749
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/M5VFXVOL2/Particles/Fire/Fire_11.uasset" 750
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/Main_Map.umap" 751
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_DayChangerTrigger.uasset" 752
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_1_BuiltData.uasset" 753
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Narrative/Narrativa_1.uasset" 754
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Narrative/SC_Narrativa_1.uasset" 755
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Narrative/SC_Narrativa_2.uasset" 756
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Rocks/Mountain_RockFace_002/T_MountainRock_N.uasset" 757
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Rocks/Mountain_RockFace_002/T_MountainRock_D.uasset" 758
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Rocks/Mountain_RockFace_002/M_Rock.uasset" 759
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Rocks/Mountain_RockFace_002/MI_MountainRock.uasset" 760
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock.uasset" 761
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_1.umap" 762
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Meshes/Lion_M_Skeleton.uasset" 763
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Stand_01.uasset" 764
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Add_Loco_L.uasset" 765
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Add_Loco_R.uasset" 766
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Add_Neutral.uasset" 767
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Comp/Comp_Lean.uasset" 768
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/InPlace/Loco_Sneak-IP.uasset" 769
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Loco_Run.uasset" 770
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Loco_Sneak.uasset" 771
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Loco_Sprint.uasset" 772
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Loco_Trot.uasset" 773
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Comp/Comp_Loco.uasset" 774
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/SK-Wolf_Skeleton.uasset" 775
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Neutral.uasset" 776
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_Down.uasset" 777
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_Left.uasset" 778
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_LeftDown.uasset" 779
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_LeftUp.uasset" 780
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_Right.uasset" 781
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_RightDown.uasset" 782
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_RightUp.uasset" 783
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Add_Look_Up.uasset" 784
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Comp_Look.uasset" 785
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Attack_StandAngry_01_Low.uasset" 786
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Stand_Breathing_01.uasset" 787
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Stand_Idle_01.uasset" 788
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Stand_Idle_02.uasset" 789
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/StandAngry_Breathing_01.uasset" 790
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Trans_Stand_to_StandAngry.uasset" 791
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Trans_StandAngry_to_Stand.uasset" 792
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_Run.uasset" 793
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_RunL.uasset" 794
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_RunR.uasset" 795
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_Sprint.uasset" 796
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_SprintL.uasset" 797
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_SprintR.uasset" 798
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_Trot.uasset" 799
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_TrotL.uasset" 800
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_TrotR.uasset" 801
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_Walk.uasset" 802
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_WalkL.uasset" 803
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_WalkR.uasset" 804
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_WalkSlow.uasset" 805
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_WalkSlowL.uasset" 806
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Loco_WalkSlowR.uasset" 807
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Comp_Loco.uasset" 808
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/LIB_Anims.uasset" 809
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/ABP_Animals_Wolf.uasset" 810
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/FC_AnimalsWolf_LocomotionBias.uasset" 811
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Materials/Shaders/Textures/Normal.uasset" 812
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Materials/Shaders/Textures/White.uasset" 813
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Materials/Shaders/Realistic-SH.uasset" 814
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Textures/Wolf-D.uasset" 815
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Textures/Wolf-N.uasset" 816
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Textures/Wolf-R.uasset" 817
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Materials/MAT-Wolf.uasset" 818
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/SK-Wolf_PhysicsAsset.uasset" 819
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/SK-Wolf.uasset" 820
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AnimalsBase.uasset" 821
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/ABP_Animals_Lion.uasset" 822
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Attack_Forward.uasset" 823
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/BaseAttenuation.uasset" 824
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Wolf_Growl.uasset" 825
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_WolfBite.uasset" 826
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Attack_Forward_Montage.uasset" 827
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Attack_StandAngry_02_High.uasset" 828
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Attack_StandAngry_02_High_Montage.uasset" 829
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Bark.uasset" 830
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_WolfBark.uasset" 831
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Meshes/Animations/Bark_Montage.uasset" 832
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AIController.uasset" 833
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AILynxController.uasset" 834
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Angry_Dog-SoundBible_com-105246558.uasset" 835
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_LynxPersistent.uasset" 836
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Textures/Normal.uasset" 837
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Default_Eye-SH.uasset" 838
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Materials/Lion_Eye_Material.uasset" 839
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Textures/Grey.uasset" 840
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Textures/White_Linear.uasset" 841
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Default-SH.uasset" 842
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Textures/Lion_M_BaseColor.uasset" 843
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Textures/Lion_M_Normal.uasset" 844
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Textures/Lion_M_Roughness.uasset" 845
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Materials/Lion_M_Material.uasset" 846
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Meshes/Lion_M_PhysicsAsset.uasset" 847
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Meshes/Lion_M.uasset" 848
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AnimalsLynx.uasset" 849
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_2_BuiltData.uasset" 850
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Narrative/SC_Narrativa_3.uasset" 851
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_2.umap" 852
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/InPlace/Attack_Long_01-IP.uasset" 853
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Lion_1.uasset" 854
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_LionBite.uasset" 855
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/InPlace/Attack_Long_01-IP_Montage.uasset" 856
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/InPlace/Attack_Long_02-IP.uasset" 857
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/InPlace/Attack_Long_02-IP_Montage.uasset" 858
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Animations/Add_Attack_Bite_R.uasset" 859
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AILionController.uasset" 860
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_LionPersistent.uasset" 861
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/_Shaders/Default_Alpha-SH.uasset" 862
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Textures/Lion_M_APFur_BaseColor.uasset" 863
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Materials/Lion_Mane_M_Material.uasset" 864
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/Animalia/Lion_M/Meshes/Lion_M_Mane.uasset" 865
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AnimalsLion.uasset" 866
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_3_BuiltData.uasset" 867
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_3.umap" 868
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AIWolfController.uasset" 869
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/SC_WolfPersistent.uasset" 870
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Blueprints/BP_AnimalsWolf.uasset" 871
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Audio/Narrative/SC_Narrativa_4.uasset" 872
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/BP_LoadLevelTrigger_Virgilio.uasset" 873
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_4_BuiltData.uasset" 874
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_4.umap" 875
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Accessories/Virgilio_Accessories_Virgilio_Accessories_BaseColor.uasset" 876
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Accessories/Virgilio_Accessories_Virgilio_Accessories_Normal.uasset" 877
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Accessories/Virgilio_Accessories_Virgilio_Accessories_OcclusionRoughnessMetallic.uasset" 878
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Accessories/M_Virgilio_Accessories.uasset" 879
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Body/Virgilio_Body_Virgilio_Body_BaseColor.uasset" 880
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Body/Virgilio_Body_Virgilio_Body_Normal.uasset" 881
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Body/Virgilio_Body_Virgilio_Body_OcclusionRoughnessMetallic.uasset" 882
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Body/M_Virgilio_Body.uasset" 883
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Clothes/Virgilio_Clothes_Virgilio_Clothes_BaseColor.uasset" 884
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Clothes/Virgilio_Clothes_Virgilio_Clothes_Normal.uasset" 885
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Clothes/Virgilio_Clothes_Virgilio_Clothes_OcclusionRoughnessMetallic.uasset" 886
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Clothes/M_Virgilio_Clothes.uasset" 887
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Eyes/Virgilio_Eyes_Virgilio_Eyes_BaseColor.uasset" 888
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Eyes/Virgilio_Eyes_Virgilio_Eyes_Normal.uasset" 889
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Eyes/Virgilio_Eyes_Virgilio_Eyes_OcclusionRoughnessMetallic.uasset" 890
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/MaterialsandTextures/Virgilio_Eyes/M_Virgilio_Eyes.uasset" 891
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Characters/SK_Virgilio_PhysicsAsset.uasset" 892
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Meshes/Characters/SK_Virgilio.uasset" 893
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/BP_Virgilio.uasset" 894
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Game/BP_SnapToLocation.uasset" 895
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_5_BuiltData.uasset" 896
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Audio/Wavs/Howl_04.uasset" 897
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Packs/AnimalsWolf/Audio/Cues/Howl_04_Cue.uasset" 898
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_5.umap" 899
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/VirtualRealityBP/Blueprints/BP_Virgilio_SecondScene.uasset" 900
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_6_BuiltData.uasset" 901
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_6.umap" 902
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/WBP_Q3.uasset" 903
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Blueprint/Questions/BP_Questions.uasset" 904
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_7_BuiltData.uasset" 905
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/Gameplay_7.umap" 906
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/TextRenders_BuiltData.uasset" 907
+"../../../../../../Johnny/Documents/Unreal Projects/DivinaCommediaVR/Content/Maps/GameplayLayers/TextRenders.umap" 908
